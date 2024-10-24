@@ -22,4 +22,4 @@ P.S.
 There is also a cheat code)
 first cord: A1XX
 second cord: B1XX
-Wins the came instantly
+Wins the game instantly
